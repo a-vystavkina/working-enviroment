@@ -1,0 +1,24 @@
+{
+  "name": "homework-eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^6.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-vystavkina/working-enviroment.git"
+  },
+  "author": "Alexandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-vystavkina/working-enviroment/issues"
+  },
+  "homepage": "https://github.com/a-vystavkina/working-enviroment#readme"
+}
